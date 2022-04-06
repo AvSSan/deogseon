@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,200&display=swap');
+.header {
+    font-family: 'Oswald', sans-serif;
+    text-decoration: overline;
+    
+}
+.name {
+    font-family: 'Oswald', sans-serif;
+    text-decoration: overline;
+    position: relative;
+    color: black;
+    text-align: center;
+    bottom: 15px;
+    font-size: 35px;
+    left: 5px;
+    
+}
+.opinfo {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    bottom: -13px;
+    left: 20px;
+}
+.main_block {
+    position: relative;
+    background-color: black;
+    height: 650px;
+    bottom: 230px;
+
+}
+.nameblock {
+    display: inline-block;
+    position: relative;
+    width: 130px;
+    height: 115px;
+    background-color: white;
+    padding: 8px;
+    bottom: 5px;
+}
+.optional_info_block {
+    display: inline-block;
+    position: relative;
+    bottom: 85px;
+    left: 20px;
+    width: 600px;
+    height: 40px;
+    text-align: center;
+    background-color: white;
+    
+}
+body {
+    position: relative;
+    margin: 50px;
+    background-color: black;
+    height: 860px;
+    
+}
+header {
+    position: relative;
+    background-color: white;
+    width: 800px;
+    height: 141px;
+    left: 500px;
+}
+.verline {
+    display: inline-block;
+    position: relative;
+    background-color: green;
+    width: 5px;
+    height: 131px;
+    top: 5px;
+}
+.contacts {
+    position: relative;
+    display: inline-flex;
+    width: 80px;
+    height: 80px;
+    color: green;
+    left: 430px;
+    bottom: 80px;
+}
+.vk {
+    width: 70px;
+    height: 70px;
+}
+.vk_link {
+    width: 50px;
+    height: 50px;
+}
+.musician {
+    position: relative;
+    width: 495px;
+    height: 141px;
+    
+}
+.musician_block {
+    position: relative;
+    width: 495px;
+    height: 141px;
+    background-color: green;
+    bottom: 141px;
+}
+.fefu_block {
+    position: relative;
+    width: 495px;
+    height: 141px;
+    left: 1305px;
+    bottom: 282px;
+}
+.main_text1_block {
+    position: relative;
+    background-color: black;
+    height: 300px;
+    width: 1000px;
+}
+.main_text1 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+.song_block {
+    position: relative;
+    background-color: black;
+    width: 600px;
+    height: 500px;
+    left: 1105px;
+    bottom: 300px;
+}
+.song {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35px;
+}
+.video_block {
+    position: relative;
+    bottom: 610px;
+    left: 50px;
+}
